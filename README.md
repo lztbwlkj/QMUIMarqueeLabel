@@ -1,0 +1,2 @@
+# QMUIMarqueeLabel
+从QMUI_iOS中抽离出的文字跑马灯
